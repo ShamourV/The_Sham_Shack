@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    background-color: #0f0e17;
+    color: #a1a2a9;
+    font-family: 'Nunito', sans-serif;
+    /* background-image: url('cool-background.png');
+    background-size: cover; */
+}
+
+.mainDiv {
+    background-color: rgb(109, 108, 108);
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    padding: 30px;
+    border-radius: 8px;
+    color: rgb(48, 47, 47);
+}
+
+ #TheShack {
+    position: inherit;
+}
